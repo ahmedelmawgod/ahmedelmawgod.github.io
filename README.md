@@ -1,3 +1,3 @@
 # Ahmed Abd-Elmawgoud – SEO Specialist
 
-Portfolio website: https://ahmedelmawgod-afk.github.io/
+Portfolio website: https://ahmedelmawgod.github.io/
