@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ahmedelmawgod-afk.github.io/sitemap.xml
+Sitemap: https://ahmedelmawgod.github.io/sitemap.xml
