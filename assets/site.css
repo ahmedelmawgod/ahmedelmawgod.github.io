@@ -332,6 +332,8 @@ section.alt .tag{background:var(--paper)}
 .lang{font-weight:600}
 [dir="rtl"] body{font-family:"Noto Sans Arabic","Segoe UI",Tahoma,sans-serif}
 [dir="rtl"] .hero h1,[dir="rtl"] .sec-head h2,[dir="rtl"] .contact h2,[dir="rtl"] .page-hero h1,[dir="rtl"] .glance dt{font-family:"Noto Naskh Arabic",Georgia,serif;letter-spacing:0}
+[dir="rtl"] .skip{left:auto;right:-9999px}
+[dir="rtl"] .skip:focus{right:16px}
 [dir="rtl"] .glance div{grid-template-columns:5.6em 1fr}
 [dir="rtl"] .channels a{text-align:left;direction:ltr}
 [dir="rtl"] .crumbs li+li::before{margin-right:0;margin-left:10px}
